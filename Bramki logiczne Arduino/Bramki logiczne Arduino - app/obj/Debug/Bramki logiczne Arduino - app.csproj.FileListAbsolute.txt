@@ -1,0 +1,60 @@
+C:\Users\Marcin\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe.config
+C:\Users\Marcin\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\Marcin\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\Marcin\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Form1.resources
+C:\Users\Marcin\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csproj.GenerateResource.Cache
+C:\Users\Marcin\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\Marcin\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\Marcin\Desktop\Architektura systemów komputerowych\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe.config
+C:\Users\Marcin\Desktop\Architektura systemów komputerowych\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\Marcin\Desktop\Architektura systemów komputerowych\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\Marcin\Desktop\Architektura systemów komputerowych\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\Marcin\Desktop\Architektura systemów komputerowych\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\Marcin\Desktop\Architektura systemów komputerowych\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Desktop\Architektura systemów komputerowych\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Form1.resources
+C:\Users\Marcin\Desktop\Architektura systemów komputerowych\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Architektura systemów komputerowych\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csproj.GenerateResource.Cache
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe.config
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Form1.resources
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Properties.Resources.resources
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csproj.GenerateResource.Cache
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy logiczne (TUL)\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe.config
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy logiczne (TUL)\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy logiczne (TUL)\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy logiczne (TUL)\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy logiczne (TUL)\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy logiczne (TUL)\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy logiczne (TUL)\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Form1.resources
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy logiczne (TUL)\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Properties.Resources.resources
+C:\Users\marko\Desktop\Architektura systemów komputerowych\Układy logiczne (TUL)\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csproj.GenerateResource.Cache
+C:\Users\marko\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe.config
+C:\Users\marko\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\marko\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\marko\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\marko\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\marko\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.FormApp.resources
+C:\Users\marko\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Properties.Resources.resources
+C:\Users\marko\Desktop\Bramki logiczne Arduino - app\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csproj.GenerateResource.Cache
+C:\Users\marko\Desktop\Bramki logiczne Arduino\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe.config
+C:\Users\marko\Desktop\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\marko\Desktop\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\marko\Desktop\Bramki logiczne Arduino\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\marko\Desktop\Bramki logiczne Arduino\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.pdb
+C:\Users\marko\Desktop\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csprojResolveAssemblyReference.cache
+C:\Users\marko\Desktop\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.FormApp.resources
+C:\Users\marko\Desktop\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki_logiczne_Arduino___app.Properties.Resources.resources
+C:\Users\marko\Desktop\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.csproj.GenerateResource.Cache
+C:\Users\marko\Desktop\TUL finalna wersja\Bramki logiczne Arduino\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe.config
+C:\Users\marko\Desktop\TUL finalna wersja\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.exe
+C:\Users\marko\Desktop\TUL finalna wersja\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.pdb
+D:\Nauka\Semestr II\Architektura systemów komputerowych\TUL finalna wersja\Bramki logiczne Arduino\Bramki logiczne Arduino - app\bin\Debug\Bramki logiczne Arduino - app.exe.config
+D:\Nauka\Semestr II\Architektura systemów komputerowych\TUL finalna wersja\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.exe
+D:\Nauka\Semestr II\Architektura systemów komputerowych\TUL finalna wersja\Bramki logiczne Arduino\Bramki logiczne Arduino - app\obj\Debug\Bramki logiczne Arduino - app.pdb
